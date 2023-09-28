@@ -1,6 +1,3 @@
-// import React from "react";
-// export const Context = React.createContext();
-
 import React, { createContext, useContext, useState } from 'react';
 
 export const Context = createContext();
